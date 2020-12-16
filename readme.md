@@ -2,8 +2,7 @@
 
 **Este é o back-end do projeto Gerenciador de salas de reuniões.**
 
-**Para o front-end, acesse: **
-**https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes-frontend**
+Ele possui o [front-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes-frontend)
 
 
 
