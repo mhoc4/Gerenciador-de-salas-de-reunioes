@@ -31,19 +31,23 @@ public class Room {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public long getId() {
+
         return id;
     }
 
     public void setId(long id) {
+
         this.id = id;
     }
 
     @Column(name = "name", nullable = false)
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
@@ -53,24 +57,29 @@ public class Room {
     }
 
     public void setDate(String date) {
+
         this.date = date;
     }
 
     @Column(name = "startHour", nullable = false)
     public String getStartHour() {
+
         return startHour;
     }
 
     public void setStartHour(String startHour) {
+
         this.startHour = startHour;
     }
 
     @Column(name = "endHour", nullable = false)
     public String getEndHour() {
+
         return endHour;
     }
 
     public void setEndHour(String endHour) {
+
         this.endHour = endHour;
     }
 

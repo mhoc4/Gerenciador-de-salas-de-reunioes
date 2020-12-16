@@ -23,6 +23,7 @@ public class RoomController {
 
     @GetMapping("/rooms")
     public List<Room> getAllRooms() {
+
         return roomRepository.findAll();
     }
 
@@ -36,6 +37,7 @@ public class RoomController {
 
     @PostMapping("/rooms")
     public Room createRoom (@Valid @RequestBody Room room) {
+
         return roomRepository.save(room);
     }
 
