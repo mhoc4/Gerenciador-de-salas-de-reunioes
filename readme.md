@@ -10,7 +10,7 @@ API com Spring Boot para gerenciar salas de reunião, usando Spring Data para pe
 
 
 
-Feito através do live coding da professora Kamila Santos no bootcamp Everis FullStack Developer da plataforma Digital Innovation One.
+Feito através do live coding da professora Kamila Santos.
 
 
 
