@@ -6,7 +6,7 @@ Ele possui o [front-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunio
 
 
 
-API com Spring Boot para gerenciar salas de reunião, usando Spring Data para persistência de dados e o banco in-memory H2
+API com Spring Boot para gerenciar salas de reuniões, usando Spring Data para persistência de dados e o banco in-memory H2
 
 
 
