@@ -2,15 +2,15 @@
 
 **Este é o back-end do projeto Gerenciador de salas de reuniões.**
 
-Ele possui o [front-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes-frontend)
+Ele possui o [front-end](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes-frontend).
 
 
 
-API com Spring Boot para gerenciar salas de reunião, usando Spring Data para persistência de dados e o banco in-memory H2
+API com Spring Boot para gerenciar salas de reunião, usando Spring Data para persistência de dados e o banco in-memory H2.
 
 
 
-Feito através do live coding da professora Kamila Santos no bootcamp Everis FullStack Developer da plataforma Digital Innovation One.
+Feito através do live coding da professora Kamila Santos.
 
 
 
