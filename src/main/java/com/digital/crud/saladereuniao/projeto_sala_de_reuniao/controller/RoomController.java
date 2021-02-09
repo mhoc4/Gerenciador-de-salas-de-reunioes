@@ -14,7 +14,7 @@ import java.util.Map;
 
 import javax.validation.Valid;
 
-@RestController @CrossOrigin(origins = "https://meeting-manager.vercel.app/")
+@RestController @CrossOrigin(origins = "https://meeting-manager.vercel.app")
 @RequestMapping("/api/v1")
 public class RoomController {
 
