@@ -51,7 +51,7 @@ public class RoomController {
         room.setStartHour(roomDetails.getStartHour());
         room.setEndHour(roomDetails.getEndHour());
         final Room updateRoom = roomRepository.save(room);
-        return ResponseEntity.ok (updateRoom);
+        return ResponseEntity.ok(updateRoom);
     }
 
     @DeleteMapping("/rooms/{id}")
