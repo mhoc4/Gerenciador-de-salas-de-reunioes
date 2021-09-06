@@ -12,6 +12,8 @@ API com Spring Boot para gerenciar salas de reuniões, usando Spring Data para p
 
 Feito através do live coding da professora Kamila Santos.
 
+
+
 Acesse: https://meeting-manager.vercel.app/rooms
 
 obs: Devido a versão gratuita do Heroku, o servidor pode demorar alguns segundos para sair do modo de hibernação.
